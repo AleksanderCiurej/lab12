@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "run app": "node_modules/.bin/nodemon app"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run app": "node_modules/.bin/nodemon app",
+    "start": "node index.js"
   },
   "author": "Aleksander Ciurej",
   "license": "ISC",
