@@ -34,7 +34,6 @@ process.on('SIGINT', () => {
   });
 });
 
-
 routes(app);
 
 app.listen(config.port, () => {
